@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/faccisilabo/static/css/main.a4c51285.css",
+    "main.js": "/faccisilabo/static/js/main.7d15d9c6.js",
+    "index.html": "/faccisilabo/index.html",
+    "main.a4c51285.css.map": "/faccisilabo/static/css/main.a4c51285.css.map",
+    "main.7d15d9c6.js.map": "/faccisilabo/static/js/main.7d15d9c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c51285.css",
+    "static/js/main.7d15d9c6.js"
+  ]
+}
